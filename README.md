@@ -11,7 +11,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/Hmaolud/config-AD.git)
   - [Active-Directory Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Hmaolud/azure-network-protocols.git)
 - <b>Cyber Security portfolio</b>
-
+  - [File Permissions in Linux]
 <h2>🤳Connect with me:</h2>
 
 
